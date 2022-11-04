@@ -7,7 +7,7 @@
 
  Examples of the conditions and vegetation in orchards in Lærdal:
 
- <img src="project description\laerdal_orchard_1.jpg" width=10% height=10%> <img src="project description\laerdal_orchard_2.jpg" width=10% height=10%> <img src="project description\laerdal_orchard_3.jpg" width=10% height=10%>
+ <img src="project description\laerdal_orchard_1.jpg" width=25% height=25%> <img src="project description\laerdal_orchard_2.jpg" width=25% height=25%> <img src="project description\laerdal_orchard_3.jpg" width=25% height=25%>
 
 
 ## Problem
@@ -23,7 +23,7 @@
 
  Available 4x4 mobile robot platform "Husky" from Clearpath robotics that could be equipped with the cutting assembly:
 
- <img src="project description\husky.jpg" width=15% height=15%>
+ <img src="project description\husky.jpg" width=25% height=25%>
 
  This project is best suited for group of 2-3 students.
  The focus of the Bachelor project could be adjusted according to preferences of the group.
