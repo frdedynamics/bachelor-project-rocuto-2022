@@ -20,7 +20,8 @@
  - Designing the kinematic structure, and simulating the robot with the actuated cutting tool in Gazebo
  - Designing and implementing the power supply, the control electronics, and the data interface with ROS/Husky
  - Considering sensors for the cutting assembly
- - Building a simple prototype module that fits on the Husky robot, and which can demonstrate basic powered cutting and actuation in the field
+ - Building a simple prototype module that fits on the Husky robot
+ - Demonstrating basic powered cutting and open-loop actuation in the field
 
  Available 4x4 mobile robot platform "Husky" from Clearpath robotics that could be equipped with the cutting assembly:
 
